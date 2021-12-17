@@ -2,7 +2,7 @@
 
 import setuptools
 
-DIST_NAME = 'gh_template_py'
+DIST_NAME = 'statistics_book'
 version = '1.0.0'
 
 setuptools.setup(
